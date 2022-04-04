@@ -151,4 +151,4 @@ Please note that before doing anything, all files should stay in your Downloads 
 </details>
 
 
-[lilithdownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3
+[lilithdownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3.exe
