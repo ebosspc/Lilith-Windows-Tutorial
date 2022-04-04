@@ -87,10 +87,10 @@ Please note that before doing anything, all files should stay in your Downloads 
      
   #### Microsoft Authentication 
   1. **You will see** `ExampleMicrosoftAccount = ['microsoft.account.email@example.com', '', 'microsoft']`
-  2. **Replace** `ExampleMicrosoftAccount` **with your Minecraft Account Username, also known as your In Game Name.** 
-  3. **Replace** `microsoft.account.email@example.com` **with your email address accociated with your Microsoft Account.**
+  2. **Replace** `ExampleMicrosoftAccount` with your Minecraft Account Username, also known as your In Game Name. 
+  3. **Replace** `microsoft.account.email@example.com` **with your email address accociated with your Microsoft Account.
   
-     **Note: do NOT replace** `microsoft` **or the blank field** `''` **with any other text.**
+     **Note: do NOT replace** `microsoft` or the blank field `''` with any other text.
   
 </details>
 
@@ -99,10 +99,10 @@ Please note that before doing anything, all files should stay in your Downloads 
        For Mojang Accounts</summary>
      
   #### Mojang Authentication 
-  1. **You will see** `ExampleMojangAccount = ['mojang.account.email@example.com', 'password goes here!']`
-  2. **Replace** `ExampleMojangAccount` **with your Minecraft Account Username, also known as your In Game Name.** 
-  3. **Replace** `mojang.account.email@example.com` **with your email address accociated with your Mojang Account.**
-  4. **Replace** `password goes here!` **with the password you use to log into your Mojang Account.**
+  1. You will see `ExampleMojangAccount = ['mojang.account.email@example.com', 'password goes here!']`
+  2. **Replace** `ExampleMojangAccount` with your Minecraft Account Username, also known as your In Game Name.
+  3. **Replace** `mojang.account.email@example.com` with your email address accociated with your Mojang Account.
+  4. **Replace** `password goes here!` with the password you use to log into your Mojang Account.
   
 </details>
 
