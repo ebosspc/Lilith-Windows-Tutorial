@@ -85,7 +85,7 @@ Please note that before doing anything, all files should stay in your Downloads 
   <summary>
        For Microsoft Accounts</summary>
      
-  ## Microsoft Authentication 
+  #### Microsoft Authentication 
   1. **You will see** `ExampleMicrosoftAccount = ['microsoft.account.email@example.com', '', 'microsoft']`
   2. **Replace** `ExampleMicrosoftAccount` **with your Minecraft Account Username, also known as your In Game Name.** 
   3. **Replace** `microsoft.account.email@example.com` **with your email address accociated with your Microsoft Account.**
@@ -98,7 +98,7 @@ Please note that before doing anything, all files should stay in your Downloads 
   <summary>
        For Mojang Accounts</summary>
      
-  ## Mojang Authentication 
+  #### Mojang Authentication 
   1. **You will see** `ExampleMojangAccount = ['mojang.account.email@example.com', 'password goes here!']`
   2. **Replace** `ExampleMojangAccount` **with your Minecraft Account Username, also known as your In Game Name.** 
   3. **Replace** `mojang.account.email@example.com` **with your email address accociated with your Mojang Account.**
