@@ -139,6 +139,14 @@ Please note that before doing anything, all files should stay in your Downloads 
 - To connect to Hypixel with Lilith enabled, just join this new server!
 - For the first time you try and connected to Hypixel, you will most likely see a screen stuck on `Downloading terrain...`. This is perfectly normal, you just haven't authenticated with Microsoft yet. Do not click disconnect.
 
+<details>
+  <summary>
+    Example Localhost Server</summary>
+  
+  #### Example Localhost Server
+
+</details>
+
 <br/>
 
 ### Microsoft Authentication
