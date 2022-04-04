@@ -88,7 +88,7 @@ Please note that before doing anything, all files should stay in your Downloads 
   #### Microsoft Authentication 
   1. **You will see** `ExampleMicrosoftAccount = ['microsoft.account.email@example.com', '', 'microsoft']`
   2. **Replace** `ExampleMicrosoftAccount` with your Minecraft Account Username, also known as your In Game Name. 
-  3. **Replace** `microsoft.account.email@example.com` **with your email address accociated with your Microsoft Account.
+  3. **Replace** `microsoft.account.email@example.com` with your email address accociated with your Microsoft Account.
   
      **Note: do NOT replace** `microsoft` or the blank field `''` with any other text.
   
