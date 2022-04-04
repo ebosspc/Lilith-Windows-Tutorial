@@ -122,6 +122,8 @@ Please note that before doing anything, all files should stay in your Downloads 
 - To connect to Hypixel with Lilith enabled, just join this new server!
 - For the first time you authenticate with microsoft you will most likely see a screen stuck on `Downloading terrain...`. This is perfectly normal. Do not click disconnect.
 
+<br/>
+
 ### Microsoft Authentication
 - Alt-tab over to your running Lilith executable. You should see a message with a link to authenticate with microsoft and a correspond code after it. Copy paste the link into a search browswer of your choice and enter the the code. You may be asked if you would like to give this file access; click yes. 
 - From here, please log in with the microsoft email associated with the ign you are trying to log in with. If it's prompting you to sign in with a different email, simply click the blue link that says `sign in with a different microsoft account` to sign in to the proper one. 
