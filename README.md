@@ -36,10 +36,45 @@ Please note that before doing anything, all files should stay in your Downloads 
 ### Choosing your settings
 - Inside of your lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
 - At the top of your toml file you will find a list of bypasses Lilith has. Although Lilith is not detectable by Hypixel and no one has ever gotten banned for using it, all modifications which could be considered a cheat are turned off by default.
-- To renable freelook and autotexthotkey on Lunar Client for Hypixel set `lunar = false` to `lunar = true`
-- To enable 1.7 hits for better hit regeistration on Lunar Client set `LunarHitReg = false` to `LunarHitReg = true`
-- To enable Lunar Client staff mods like an X-ray module built into Lunar set `LunarCheats = false` to `LunarCheats = true`
-- The default stat checking mode of Lilith is to show the overall gamemode stats. For example, if you were to queue a solo bridge game Lilith will show the opponent's bridge overall stats. If you would like to set the stat checking mode to all duels gamemodes overall set `overall = false` to `overall = true`. You will have to scroll down a bit to find this.
+
+<details>
+  <summary>
+    Bypasses for Lunar</summary>
+  
+  ## Enabling Lunar Bypasses
+  - To renable freelook and autotexthotkey on Lunar Client for Hypixel set `lunar = false` to `lunar = true`
+  - To enable 1.7 hits for better hit regeistration on Lunar Client set `LunarHitReg = false` to `LunarHitReg = true`
+  - To enable Lunar Client staff mods like an X-ray module built into Lunar set `LunarCheats = false` to `LunarCheats = true`
+  
+</details>
+
+<details>
+  <summary>
+    Bypasses for Forge</summary>
+  
+  ## Enabling Forge Bypasses
+  - To hide your forge mods list from Hypixel and make Hypixel think you are on vanilla keep `forge = true` as is.
+
+</details>
+
+<details>
+  <summary>
+    Bypasses for Badlion</summary>
+  
+  ## Enabling Forge Bypasses
+  - To enable all disabled mods on Badlion on Hypixel set `Badlion = false` to `Badlion = true`.
+
+</details>
+
+<details>
+  <summary>
+    Queuestats Customizations</summary>
+  
+  ## Customizing Lilith Stat-checking
+  - The default stat checking mode of Lilith is to show the overall gamemode stats. For example, if you were to queue a solo bridge game, Lilith will show the opponent's bridge overall stats. If you would like to set the stat checking mode to all duels gamemodes overall set `overall = false` to `overall = true`. You will have to scroll down a bit to find this.
+  - If you would like to see your own stats as well as your opponent's set `ShowOwnStats = false` to `ShowownStats = true`.
+
+</details>
 
 <br />
 
