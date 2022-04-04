@@ -30,7 +30,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 ## Configuring Your TOML File
 
-# Choosing your settings
+### Choosing your settings
 - Inside of your lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
 - At the top of your toml file you will find a list of bypasses Lilith has. Although Lilith is not detectable by Hypixel and no one has ever gotten banned for using it, all modifications which could be considered a cheat are turned off by default.
 - To renable freelook and autotexthotkey on Lunar Client for Hypixel set `lunar = false` to `lunar = true`
@@ -38,7 +38,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 - To enable Lunar Client staff mods like an X-ray module built into Lunar set `LunarCheats = false` to `LunarCheats = true`
 - The default stat checking mode of Lilith is to show the overall gamemode stats. For example, if you were to queue a solo bridge game Lilith will show the opponent's bridge overall stats. If you would like to set the stat checking mode to all duels gamemodes overall set `overall = false` to `overall = true`. You will have to scroll down a bit to find this.
 
-# Inserting your credentials
+### Inserting your credentials
 - Scroll down your toml file until you see a line titled `[server.authentication]`. This is where you will input your credentials
 
 <details>
@@ -66,8 +66,18 @@ Please note that before doing anything, all files should stay in your Downloads 
   
 </details>
 
+## Running Lilith
+- Now that you are finished configuring your config file, go to the top left corner of notepad, click file then save. You are now safe to close the toml file.
+- Relaunch the Lilith executable by double-clicking on it. This will be how you launch Lilith in the future. You should see Lilith say it loaded your customized toml file.
 
-
-
+## Connecting to Localhost
+- Note: In order for Lilith to work properly throughout your session, it needs to be running. A popular way people avoid having the running lilith console get in their way is minimizing it to their task bar after initially launching it.
+-Now in Minecraft go to `Multiplayer` -> `Add Server` and for the server name type `Lilith Proxy`. For the server address enter `localhost`. This will create a new server in yoru server list for you to connect to Hpixel on. 
+- Note: Lilith will only work if you are connected to the localhost server. If you attempt to connect to hypixel normally, it won't work.
+- To connect to Hypixel with Lilith enabled, just join this new server!
+- For the first time you authenticate with microsoft you will most liekly see a screen stuck on `Downloading terrain...`. This is perfectly normal. Do not click disconnect.
+- Alt-tab over to your running Lilith executable. You should see a message with a link to authenticate with microsoft and a correspond code after it. Copy paste the link into a search browswer of your choice and enter the the code. You may be asked if you would like to give this file access; click yes. 
+- From here, please log in with the microsoft email associated with the ign you are trying to log in with. If it's prompting you to sign in with a different email, simply click the blue link that says `sign in with a different microsoft account` to sign in to the proper one. 
+- After you are done signing in, you should see a big red error message in your console. Don't be alarmed, this is a good error message. Simply recconect to the localhost server you made and Lilith should work properly!
 
 [lilithdownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3
