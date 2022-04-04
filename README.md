@@ -20,6 +20,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 - Drag and drop the executable file you just downloaded into that folder you created. 
 -Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then manually remove the unwanted (1) from the end of its name.
 
+<br />
 
 ## Linking Lilith to Your Discord
 - Go into your Lilith folder and double click on the exectuable to run it. A new black window should pop up on your screen.
@@ -29,6 +30,8 @@ Please note that before doing anything, all files should stay in your Downloads 
 - Now that it is safe to close your Lilith console window, please do so.
 
 ## Configuring Your TOML File
+
+<br />
 
 ### Choosing your settings
 - Inside of your lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
