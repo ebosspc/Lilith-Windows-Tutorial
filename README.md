@@ -124,4 +124,25 @@ Please note that before doing anything, all files should stay in your Downloads 
 - After you are done signing in, you should see a big red error message in your console. Don't be alarmed, this is a good error message. Simply recconect to the localhost server you made and Lilith should work properly!
 - Note: Lilith will only work if you are connected to the localhost server. If you attempt to connect to hypixel normally, it won't work.
 
+<br/>
+
+## Optional Enhancements
+
+<details>
+  <summary>
+    Enabling Hypixel Mods</summary>
+  
+  #### Enabling Hypixel Mods
+
+</details>
+
+<details>
+  <summary>
+    Customizing Questats Appearance</summary>
+  
+  #### Questats Customization
+
+</details>
+
+
 [lilithdownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3
