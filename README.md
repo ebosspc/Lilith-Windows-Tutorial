@@ -69,9 +69,13 @@ Please note that before doing anything, all files should stay in your Downloads 
   
 </details>
 
+<br />
+
 ## Running Lilith
 - Now that you are finished configuring your config file, go to the top left corner of notepad, click file then save. You are now safe to close the toml file.
 - Relaunch the Lilith executable by double-clicking on it. This will be how you launch Lilith in the future. You should see Lilith say it loaded your customized toml file.
+
+<br />
 
 ## Connecting to Localhost
 - Note: In order for Lilith to work properly throughout your session, it needs to be running. A popular way people avoid having the running lilith console get in their way is minimizing it to their task bar after initially launching it.
