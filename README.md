@@ -20,6 +20,14 @@ Please note that before doing anything, all files should stay in your Downloads 
 - Drag and drop the executable file you just downloaded into that folder you created. 
 - Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then manually remove the unwanted (1) from the end of its name.
 
+<details>
+  <summary>
+    What It Should Look Like So Far</summary>
+  
+  #### Example Initial Lilith Folder
+
+</details>
+
 <br />
 
 ## Linking Lilith to Your Discord
@@ -105,6 +113,14 @@ Please note that before doing anything, all files should stay in your Downloads 
   3. **Replace** `mojang.account.email@example.com` with your email address accociated with your Mojang Account.
   4. **Replace** `password goes here!` with the password you use to log into your Mojang Account.
   
+</details>
+
+<details>
+  <summary>
+    Example TOML File</summary>
+  
+  #### Sample `[server.authentication]` TOML File Section
+
 </details>
 
 <br />
