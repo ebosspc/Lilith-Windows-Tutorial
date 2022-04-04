@@ -1,5 +1,5 @@
 <!--- Special Thanks to Sam (https://github.com/Scherso) for creating a beautiful formatting template for Lilith tutorials --->
-<!--- He is a really cool guy with amazing markdown skills and you should check out his incredible work --->
+<!--- The majority of this text was written by FireStorm (FireStorm#1000) --->
 
 <!--- Lilith Logo Header --->
 <p align="center">
