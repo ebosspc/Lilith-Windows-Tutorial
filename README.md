@@ -165,6 +165,8 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 ## Optional Enhancements
 
+#### Free
+
 <details>
   <summary>
     Enabling Hypixel Mods</summary>
@@ -172,6 +174,10 @@ Please note that before doing anything, all files should stay in your Downloads 
   #### Enabling Hypixel Mods
 
 </details>
+
+<br/>
+
+#### Requires Premium
 
 <details>
   <summary>
