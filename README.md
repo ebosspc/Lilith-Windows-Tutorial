@@ -18,7 +18,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 - You can download Lilith for windows [Here][lilithdownload] if you haven't already. You can idenitfy it via the green icon next to its name.
 - Go to your desktop and right click on an empty space and create a new folder called Lilith
 - Drag and drop the executable file you just downloaded into that folder you created. 
--Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then remove the unwanted (1) from the end of it.
+-Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then manually remove the unwanted (1) from the end of its name.
 
 
 ## Linking Lilith to Your Discord
