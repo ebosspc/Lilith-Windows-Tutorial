@@ -29,9 +29,9 @@ Please note that before doing anything, all files should stay in your Downloads 
 - When you are finished, there should be a green box that says "Hardware Verified". Just be patient and wait a few seconds for Lilith to download all of the necessary files into your Lilith folder. When it is finished, red text will pop up in the console.
 - Now that it is safe to close your Lilith console window, please do so.
 
-## Configuring Your TOML File
-
 <br />
+
+## Configuring Your TOML File
 
 ### Choosing your settings
 - Inside of your lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
@@ -40,6 +40,8 @@ Please note that before doing anything, all files should stay in your Downloads 
 - To enable 1.7 hits for better hit regeistration on Lunar Client set `LunarHitReg = false` to `LunarHitReg = true`
 - To enable Lunar Client staff mods like an X-ray module built into Lunar set `LunarCheats = false` to `LunarCheats = true`
 - The default stat checking mode of Lilith is to show the overall gamemode stats. For example, if you were to queue a solo bridge game Lilith will show the opponent's bridge overall stats. If you would like to set the stat checking mode to all duels gamemodes overall set `overall = false` to `overall = true`. You will have to scroll down a bit to find this.
+
+<br />
 
 ### Inserting your credentials
 - Scroll down your toml file until you see a line titled `[server.authentication]`. This is where you will input your credentials
