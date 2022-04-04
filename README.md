@@ -1,5 +1,11 @@
 <!--- Special Thanks to Sam (https://github.com/Scherso) for creating a beautiful formatting template for Lilith tutorials --->
 <!--- He is a really cool guy with amazing markdown skills and you should check out his incredible work --->
+
+<!--- Lilith Logo Header --->
+<p align="center">
+    <img src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/title.png" style="width: 60%">
+</p>
+
 <h1 align="center">
 
   [Lilith](https://github.com/GhqstMC/LilithReleases) Setup for Windows
