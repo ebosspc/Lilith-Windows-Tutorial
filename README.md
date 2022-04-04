@@ -115,10 +115,14 @@ Please note that before doing anything, all files should stay in your Downloads 
 <br />
 
 ## Connecting to Localhost
+
+### Creating a Localhost Server
 - Note: In order for Lilith to work properly throughout your session, it needs to be running. A popular way people avoid having the running lilith console get in their way is minimizing it to their task bar after initially launching it.
 - Now in Minecraft go to `Multiplayer` -> `Add Server` and for the server name type `Lilith Proxy`. For the server address enter `localhost`. This will create a new server in yoru server list for you to connect to Hpixel on. 
 - To connect to Hypixel with Lilith enabled, just join this new server!
-- For the first time you authenticate with microsoft you will most liekly see a screen stuck on `Downloading terrain...`. This is perfectly normal. Do not click disconnect.
+- For the first time you authenticate with microsoft you will most likely see a screen stuck on `Downloading terrain...`. This is perfectly normal. Do not click disconnect.
+
+### Microsoft Authentication
 - Alt-tab over to your running Lilith executable. You should see a message with a link to authenticate with microsoft and a correspond code after it. Copy paste the link into a search browswer of your choice and enter the the code. You may be asked if you would like to give this file access; click yes. 
 - From here, please log in with the microsoft email associated with the ign you are trying to log in with. If it's prompting you to sign in with a different email, simply click the blue link that says `sign in with a different microsoft account` to sign in to the proper one. 
 - After you are done signing in, you should see a big red error message in your console. Don't be alarmed, this is a good error message. Simply recconect to the localhost server you made and Lilith should work properly!
