@@ -34,7 +34,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 ## Configuring Your TOML File
 
 ### Choosing your settings
-- Inside of your lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
+- Inside of your Lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
 - At the top of your toml file you will find a list of bypasses Lilith has. Although Lilith is not detectable by Hypixel and no one has ever gotten banned for using it, all modifications which could be considered a cheat are turned off by default.
 
 <details>
@@ -79,7 +79,8 @@ Please note that before doing anything, all files should stay in your Downloads 
 <br />
 
 ### Inserting your credentials
-- Scroll down your toml file until you see a line titled `[server.authentication]`. This is where you will input your credentials
+- Scroll down your toml file until you see a line titled `[server.authentication]`. This is where you will input your credentials.
+- Note: If you are concerned about your account security, know that any account details you enter are stored locally on your pc and can't be viewed by the Lilith developers even if they wanted to. The only data we collect and store is your unique Hardware ID and discord tag, which is used for the licensing system. For more information, see our Privacy Policy.
 
 <details>
   <summary>
