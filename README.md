@@ -3,7 +3,7 @@
 
 <!--- Lilith Logo Header --->
 <p align="center">
-    <img src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/title.png" style="width: 60%">
+    <img src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/title.png" style="width: 45%">
 </p>
 
 <h1 align="center">
