@@ -169,7 +169,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <details>
   <summary>
-    Enabling Hypixel Mods</summary>
+    Enable Hypixel Mods</summary>
   
   #### Enabling Hypixel Mods
   1. Ensure Lilith, Lunar, and all files relating to Minecraft are closed. Also ensure the Lunar Enable bypasses are off. You can do this by settings `lunar = true` to `lunar = false` in your config, if it isn't already `false`. 
@@ -200,7 +200,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <details>
   <summary>
-    Customizing Queuestats Appearance</summary>
+    Custom Queuestats</summary>
   
   #### Making One-line Stats
   Note: This feature has been temporarily **DISABLED** until 1.0 releases.
@@ -214,7 +214,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <details>
   <summary>
-    Enable Autododge</summary>
+    Autododge</summary>
   
   #### Customizing Autododge
   Note: This feature has been temporarily **DISABLED** until 1.0 releases.
