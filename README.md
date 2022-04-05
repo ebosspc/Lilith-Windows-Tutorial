@@ -194,7 +194,7 @@ Please note that before doing anything, all files should stay in your Downloads 
     How to Get Premium</summary>
   
   #### Obtaining a Premium License
-  - If you would like to purcahse premium please DM an admin or developer. You can contact us via the [Lilith Discord Server][LilithDiscord] Licenses are $10 for lifetime access to all Lilith premium updates and features. Server boosters will also receive 1 month of premium for each month they boost the server.
+  - If you would like to purcahse premium please DM an admin or developer. You can contact us via the [Lilith Discord Server][LilithDiscord]. Licenses are $10 for lifetime access to all Lilith premium updates and features. Server boosters will also receive 1 month of premium for each month they boost the server.
 
 </details>
 
@@ -203,6 +203,20 @@ Please note that before doing anything, all files should stay in your Downloads 
     Customizing Queuestats Appearance</summary>
   
   #### Making One-line Stats
+  Note: This feature has been temporarily **DISABLED** until 1.0 releases.
+
+  <br/>
+
+  #### Custom Color Coding
+  Note: This feature has been temporarily **DISABLED** until 1.0 releases.
+
+</details>
+
+<details>
+  <summary>
+    Enable Autododge</summary>
+  
+  #### Customizing Autododge
   Note: This feature has been temporarily **DISABLED** until 1.0 releases.
 
 </details>
