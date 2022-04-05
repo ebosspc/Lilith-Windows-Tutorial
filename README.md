@@ -172,14 +172,16 @@ Please note that before doing anything, all files should stay in your Downloads 
     Enabling Hypixel Mods</summary>
   
   #### Enabling Hypixel Mods
-  1. Ensure Lilith, Lunar, and all files relating to Minecraft are closed. Also ensure the Lunar Enable bypasses are off. You can do this by settings `lunar = true` to `lunar = false` in your config, if it isn't already `false`. If you need to use Lunar Enable we reccomend using [Lunar Client QT][LunarClientQT], an open source custom launcher for Lunar. It lets you add custom mods to Lunar called agents that are similar to forge mods in nature. Please note most forge mods won't work with it, as the only agents that will work with it are specially written ones made in [Java Byte Code][JavaByteCode]. Popular agents include an unlocker for Lunar+, every emote, and every cosmetic, similar Lunar Bypasses to the one's Lilith offers
+  1. Ensure Lilith, Lunar, and all files relating to Minecraft are closed. Also ensure the Lunar Enable bypasses are off. You can do this by settings `lunar = true` to `lunar = false` in your config, if it isn't already `false`. 
+  Note: If you need to use Lunar Enable we reccomend using [Lunar Client QT][LunarClientQT], an open source custom launcher for Lunar. It lets you add custom mods to Lunar called agents that are similar to forge mods in nature. Please note most forge mods won't work with it, as the only agents that will work with it are specially written ones made in [Java Byte Code][JavaByteCode]. Popular agents include an unlocker for Lunar+, every emote, and every cosmetic, similar Lunar bypasses to the ones Lilith offers.
   2. Find the search icon/bar at the bottom of your screen and type Notepad into the searchbar; you should see the Notepad app pop up as an option. DO NOT open it yet.
   3. Right-click on it ad select Run as Administrator. Youll be asked if you want to "allow this app to make changes to your device?". Click Yes
   4. Now that you are running Notepad as an admin, in the top right of the window click File then Open.
-  5. Navigate to `C` -> `Windows` -> `System32` -> `drivers` -> `etc`. This folder may appear blank at first. To show all files, click the dropdown box in the bottom-right of file explorer titled `Text Documents .txt`, then select `All Files`.
-  6. Double-Click on hosts to open it. You may see several lines starting with `#`. Create a new line at the very bottom of the file below all of the lines starting with `#`.\
+  5. Navigate to `C:` -> `Windows` -> `System32` -> `drivers` -> `etc`. This folder may appear blank at first. To show all files, click the dropdown box in the bottom-right of file explorer titled `Text Documents .txt`, then select `All Files`.
+  6. **Double-Click** on hosts to open it. You may see several lines starting with `#`. Create a new line at the very bottom of the file below all of the lines starting with `#`.\
   7. Paste the following into that bottom line: `127.0.0.1 hypixel.net.hypixel.io`. Next, save your hosts file and close it.
-  8. Relaunch Lilith and Lunar like normal, but before you connect to your localhost Lilith Proxy, do the following: **Change** its server address from `localhost` to `hypixel.net.hypixel.io`.
+  8. Relaunch Lilith and Lunar like normal.
+  9. **Change** Your Lilith/localhost server address from `localhost` to `hypixel.net.hypixel.io` before connecting.
 
 </details>
 
@@ -189,9 +191,19 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <details>
   <summary>
-    Customizing Questats Appearance</summary>
+    How to Get Premium</summary>
   
-  #### Questats Customization
+  #### Obtaining a Premium License
+  - If you would like to purcahse premium please DM an admin or developer. You can contact us via the [Lilith Discord Server][LilithDiscord] Licenses are $10 for lifetime access to all Lilith premium updates and features. Server boosters will also receive 1 month of premium for each month they boost the server.
+
+</details>
+
+<details>
+  <summary>
+    Customizing Queuestats Appearance</summary>
+  
+  #### Making One-line Stats
+  Note: This feature has been temporarily **DISABLED** until 1.0 releases.
 
 </details>
 
@@ -199,3 +211,4 @@ Please note that before doing anything, all files should stay in your Downloads 
 [LilithDownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3.exe
 [LunarClientQT]: https://github.com/Nilsen84/lunar-client-qt
 [JavaByteCode]: https://en.wikipedia.org/wiki/Java_bytecode
+[LilithDiscord]: htt[s://discord.gg/lilith]
