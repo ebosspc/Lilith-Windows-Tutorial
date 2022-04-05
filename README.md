@@ -185,6 +185,25 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 </details>
 
+<details>
+  <summary>
+    Add Alts</summary>
+  
+  #### Adding Alts to Lilith
+  **Note: Lilith WILL NOT support mojang accounts in 1.0**
+  1. Ensure Lilith and Lunar are closed.
+  2. Navigate to the TOML file in your Lilith folder where you previously entered the details of your main minecraft account. Scroll down to the `[server.authentication]` portion of your TOML file. You should see the place where you entered you main's details. You are going to enter your alt's details following the exeact same formatting you used for your main.
+  3. Copy the entire line with your main's details to your clip board by pressing `ctrl` + `c`
+  4. Create a new line right underneath the line with your main's details. Paste the line you just copied into this new line.
+  5. Replace the ign and email portions in this new line with your alts details following the same formatting rules as you did with your main.
+  6. Save your toml file and close it. Launch Lilith and Minecraft.In Minecraft, sign into your alt and connect to the Lilith localhost server.
+  7. Just like you did with your main 
+
+</details>
+
+
+
+
 <br/>
 
 ### Requires Premium
