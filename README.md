@@ -21,11 +21,12 @@ Please note that before doing anything, all files should stay in your Downloads 
 ---
 
 ## Install Lilith in the proper location
-
+<a>
 <img 
-     align="left" alt="Avatar" width="50px" 
+     align="right" alt="Avatar" width="50px" 
           src="https://github.com/Ethan-Francolla/Lilith-Windows-Tutorial/blob/main/assets/nodejslogotransparent.png" 
 />
+</a>
 
 - You can download Lilith for windows [Here][lilithdownload] if you haven't already. You can idenitfy it via the green icon next to its name.
 - Go to your desktop and right click on an empty space and create a new folder called Lilith
