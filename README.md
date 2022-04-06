@@ -20,7 +20,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 ---
 
-## Install Lilith in the proper location
+
 <a>
 <img 
      align="right" alt="Avatar" width="50px" 
@@ -28,6 +28,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 />
 </a>
 
+## Install Lilith in the proper location
 - You can download Lilith for windows [Here][lilithdownload] if you haven't already. You can idenitfy it via the green icon next to its name.
 - Go to your desktop and right click on an empty space and create a new folder called Lilith
 - Drag and drop the executable file you just downloaded into that folder you created. 
