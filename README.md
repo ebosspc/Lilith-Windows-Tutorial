@@ -193,16 +193,14 @@ Please note that before doing anything, all files should stay in your Downloads 
   **Note: Lilith WILL NOT support mojang accounts in 1.0**
   1. Ensure Lilith and Lunar are closed.
   2. Navigate to the TOML file in your Lilith folder where you previously entered the details of your main minecraft account. Scroll down to the `[server.authentication]` portion of your TOML file. You should see the place where you entered you main's details. You are going to enter your alt's details following the exeact same formatting you used for your main.
-  3. Copy the entire line with your main's details to your clip board by pressing `ctrl` + `c`
+  3. Copy the entire line with your main's details to your clipboard by pressing `ctrl` + `c`
   4. Create a new line right underneath the line with your main's details. Paste the line you just copied into this new line.
   5. Replace the ign and email portions in this new line with your alts details following the same formatting rules as you did with your main.
   6. Save your toml file and close it. Launch Lilith and Minecraft.In Minecraft, sign into your alt and connect to the Lilith localhost server.
-  7. Just like you did with your main 
+  7. Just like you did with your main, authenticate with Microsft with the email associated with the ign you are trying to log in with. You may have to click on `sign in with a different microsoft account` to choose the right email to sign in with.
+  8. To add more alts just follow the above steps to add a new alt on each line and authenticating each one with microsoft one by one.
 
 </details>
-
-
-
 
 <br/>
 
@@ -237,6 +235,38 @@ Please note that before doing anything, all files should stay in your Downloads 
   
   #### Customizing Autododge
   Note: This feature has been temporarily **DISABLED** until 1.0 releases.
+
+</details>
+
+<br/>
+
+## Troubleshooting
+<details>
+  <summary>
+    `Java.net connection excpetion` In Game</summary>
+  
+  #### Lilith isn't running
+  - When you connected to localhost you didn't make sure to have Lilith running while you were doing so. Please launch Lilith and keep it running while you are connected to localhost.
+
+</details>
+
+<details>
+  <summary>
+    `End`,`SocketClosed`</summary>
+  
+  #### Details Not In TOML File
+  - You have not added your details to your TOML file, or if you have, they were added improperly. Please see the examples above in the `Inserting Your Credentials` section fo this guide to ensure you entered your details properly.
+  Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly. 
+
+</details>
+
+<details>
+  <summary>
+    `Bad Atom Value at line ___</summary>
+  
+  #### Bad TOML formatting
+  - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
+  Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
 
 </details>
 
