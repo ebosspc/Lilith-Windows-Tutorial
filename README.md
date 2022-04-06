@@ -243,7 +243,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 ## Troubleshooting
 <details>
   <summary>
-    `Java.net connection excpetion` In Game</summary>
+    Java.net connection excpetion In Game</summary>
   
   #### Lilith isn't running
   - When you connected to localhost you didn't make sure to have Lilith running while you were doing so. Please launch Lilith and keep it running while you are connected to localhost.
@@ -252,7 +252,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <details>
   <summary>
-    `End`,`SocketClosed`</summary>
+    End,SocketClosed</summary>
   
   #### Details Not In TOML File
   - You have not added your details to your TOML file, or if you have, they were added improperly. Please see the examples above in the `Inserting Your Credentials` section fo this guide to ensure you entered your details properly.
@@ -262,7 +262,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <details>
   <summary>
-    `Bad Atom Value at line ___</summary>
+    Bad Atom Value at line ___</summary>
   
   #### Bad TOML formatting
   - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
