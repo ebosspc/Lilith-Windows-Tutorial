@@ -23,7 +23,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 <a>
 <img 
-     align="right" alt="Avatar" width="50px" 
+     align="right" alt="Avatar" width="40px" 
           src="https://github.com/Ethan-Francolla/Lilith-Windows-Tutorial/blob/main/assets/nodejslogotransparent.png" 
 />
 </a>
