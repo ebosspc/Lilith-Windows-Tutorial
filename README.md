@@ -20,14 +20,6 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 ---
 
-
-<a>
-<img 
-     align="right" alt="Avatar" width="40px" 
-          src="https://github.com/Ethan-Francolla/Lilith-Windows-Tutorial/blob/main/assets/nodejslogotransparent.png" 
-/>
-</a>
-
 ## Install Lilith in the proper location
 - You can download Lilith for windows [Here][lilithdownload] if you haven't already. You can idenitfy it via the green icon next to its name.
 - Go to your desktop and right click on an empty space and create a new folder called Lilith
@@ -102,7 +94,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 ### Inserting your credentials
 - Scroll down your toml file until you see a line titled `[server.authentication]`. This is where you will input your credentials.
-- Note: If you are concerned about your account security, know that any account details you enter are stored locally on your pc and can't be viewed by the Lilith developers even if they wanted to. The only data we collect and store is your unique Hardware ID and discord tag, which is used for the licensing system. For more information, see our Privacy Policy.
+- Note: If you are concerned about your account security, know that any account details you enter are stored locally on your pc and can't be viewed by the Lilith developers even if they wanted to. The only data we collect and store is your unique Hardware ID and discord tag, which is used for the licensing system. For more information, see our [Privacy Policy][LilithDocsFAQ].
 
 <details>
   <summary>
@@ -253,14 +245,14 @@ Please note that before doing anything, all files should stay in your Downloads 
   <summary>
     Java.net connection excpetion In Game</summary>
   
-  #### Lilith isn't running
+  #### Lilith Isn't Running
   - When you connected to localhost you didn't make sure to have Lilith running while you were doing so. Please launch Lilith and keep it running while you are connected to localhost.
 
 </details>
 
 <details>
   <summary>
-    End,SocketClosed</summary>
+    End, SocketClosed</summary>
   
   #### Details Not In TOML File
   - You have not added your details to your TOML file, or if you have, they were added improperly. Please see the examples above in the `Inserting Your Credentials` section fo this guide to ensure you entered your details properly.
@@ -278,8 +270,18 @@ Please note that before doing anything, all files should stay in your Downloads 
 
 </details>
 
+<details>
+  <summary>
+    Unexpected token in JSON at position ___</summary>
+  
+  #### Bad TOML formatting
+  - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
+  Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
+
+</details>
 
 [LilithDownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3.exe
 [LunarClientQT]: https://github.com/Nilsen84/lunar-client-qt
 [JavaByteCode]: https://en.wikipedia.org/wiki/Java_bytecode
-[LilithDiscord]: htt[s://discord.gg/lilith]
+[LilithDiscord]: htt[s://discord.gg/lilith
+[LilithDocsFAQ]: https://docs.lilithmod.xyz/#/FAQ
