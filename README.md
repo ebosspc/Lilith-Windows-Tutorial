@@ -165,7 +165,7 @@ Please note that before doing anything, all files should stay in your Downloads 
   
   #### Enabling Hypixel Mods
   1. Ensure Lilith, Lunar, and all files relating to Minecraft are closed. Also ensure the Lunar Enable bypasses are off. You can do this by settings `lunar = true` to `lunar = false` in your config, if it isn't already `false`. 
-  Note: If you need to use Lunar Enable we reccomend using [Lunar Client QT][LunarClientQT], an open source custom launcher for Lunar. It lets you add custom mods to Lunar called agents that are similar to forge mods in nature. Please note most forge mods won't work with it, as the only agents that will work with it are specially written ones made in [Java Byte Code][JavaByteCode]. Popular agents include an unlocker for Lunar+, every emote, and every cosmetic, similar Lunar bypasses to the ones Lilith offers.
+  Note: If you need to use Lunar Enable we reccomend using [Lunar Client QT][LunarClientQT], an open source custom launcher for Lunar. It lets you add custom mods to Lunar called agents that are similar to forge mods in nature. Please note most forge mods won't work with it, as the only agents that will work with it are specially written ones made in [Java Byte Code][JavaByteCode]. Popular agents include an unlocker for Lunar+, every emote, and every cosmetic, similar Lunar bypasses to the ones Lilith offers, and a customizable hurtcamera.
   2. Find the search icon/bar at the bottom of your screen and type Notepad into the searchbar; you should see the Notepad app pop up as an option. DO NOT open it yet.
   3. Right-click on it ad select Run as Administrator. Youll be asked if you want to "allow this app to make changes to your device?". Click Yes
   4. Now that you are running Notepad as an admin, in the top right of the window click File then Open.
@@ -233,7 +233,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 <br/>
 
 ## Troubleshooting
-- If None of the solutions below work for you, please create a ticket in the [Lilith Discord Server][LilithDiscord].
+- If none of the solutions below work for you, please create a ticket in the [Lilith Discord Server][LilithDiscord].
 
 <details>
   <summary>
