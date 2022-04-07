@@ -26,14 +26,6 @@ Please note that before doing anything, all files should stay in your Downloads 
 - Drag and drop the executable file you just downloaded into that folder you created. 
 - Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then manually remove the unwanted (1) from the end of its name.
 
-<details>
-  <summary>
-    What It Should Look Like So Far</summary>
-  
-  #### Example Initial Lilith Folder
-
-</details>
-
 <br />
 
 ## Linking Lilith to Your Discord
@@ -256,7 +248,7 @@ Please note that before doing anything, all files should stay in your Downloads 
   
   #### Details Not In TOML File
   - You have not added your details to your TOML file, or if you have, they were added improperly. Please see the examples above in the `Inserting Your Credentials` section fo this guide to ensure you entered your details properly.
-  Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly. 
+  - Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly. 
 
 </details>
 
@@ -266,7 +258,7 @@ Please note that before doing anything, all files should stay in your Downloads 
   
   #### Bad TOML formatting
   - You didn't format your TOML file properly according to the `Inserting Your Credentials` section in the guide and Lilith is rejecting the improper formatting. Please see the examples above to ensure it is formatted correctly.
-  Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
+  - Note: If you are changing your TOML file, be sure to save it and relaunch Lilith to load your changes properly.
 
 </details>
 
