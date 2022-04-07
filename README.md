@@ -31,7 +31,7 @@ Please note that before doing anything, all files should stay in your Downloads 
 ## Linking Lilith to Your Discord
 - Go into your Lilith folder and double click on the exectuable to run it. A new black window should pop up on your screen.
 - Inside this window, there will be a blue link. Please copy and paste that link into a browser of your choice and hit enter. Follow the instructions in your browser to properly link your discord. Do not close Lilith while you are doing this.
-- Note: You may be asked to give Lilith access to your username and avatar. Just click yes, this is simply to link your discord account with the Lilith. 
+- Note: You may be asked to give Lilith access to your username and avatar. Just click yes, this is simply to link your discord account with Lilith. 
 - When you are finished, there should be a green box that says "Hardware Verified". Just be patient and wait a few seconds for Lilith to download all of the necessary files into your Lilith folder. When it is finished, red text will pop up in the console.
 - Now that it is safe to close your Lilith console window, please do so.
 
@@ -233,6 +233,8 @@ Please note that before doing anything, all files should stay in your Downloads 
 <br/>
 
 ## Troubleshooting
+- If None of the solutions below work for you, please create a ticket in the [Lilith Discord Server][LilithDiscord].
+
 <details>
   <summary>
     Java.net connection excpetion In Game</summary>
