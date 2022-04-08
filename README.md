@@ -58,7 +58,7 @@ Written by FireStorm and Salmon
     Bypasses for Forge</summary>
   
   #### Enabling Forge Bypasses
-  - To hide your forge mods list from Hypixel and make Hypixel think you are on vanilla keep `forge = true` as is.
+  - To hide your forge mods list from Hypixel keep `forge = true`. This makes hypixel think that you are connecting through vanilla minecraft, which makes mods like freelook undetectable so you can use them as you please.
 
 </details>
 
@@ -77,7 +77,7 @@ Written by FireStorm and Salmon
   
   #### Customizing Lilith Stat-checking
   - The default stat checking mode of Lilith is to show the overall gamemode stats. For example, if you were to queue a solo bridge game, Lilith will show the opponent's bridge overall stats. If you would like to set the stat checking mode to all duels gamemodes overall set `overall = false` to `overall = true`. You will have to scroll down a bit to find this.
-  - If you would like to see your own stats as well as your opponent's set `ShowOwnStats = false` to `ShowownStats = true`.
+  - If you would like to see your own stats as well as your opponent's set `ShowOwnStats = false` to `ShowownStats = true`. Although, please note that this does not work for everyone all the time.
 
 </details>
 
