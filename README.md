@@ -119,7 +119,7 @@
 ## Connecting to Localhost
 
 ### Creating a Localhost Server
-- Note: In order for Lilith to work properly throughout your session, it needs to be running. A popular way people avoid the running Lilith console get in their way is minimizing it to their task bar after initially launching it.
+- Note: In order for Lilith to work properly throughout your session, it needs to be running. A popular way people avoid the running Lilith console getting in their way is minimizing it to their task bar after initially launching it.
 - Now in Minecraft go to `Multiplayer` -> `Add Server` and for the server name type `Lilith Proxy`. For the server address enter `localhost`. This will create a new server in your server list for you to connect to Hpixel on. 
 - To connect to Hypixel with Lilith enabled, just join this new server!
 - For the first time you try and connected to Hypixel, you will most likely see a screen stuck on `Downloading terrain...`. This is perfectly normal, you just haven't authenticated with Microsoft yet. Do not click disconnect.
