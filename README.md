@@ -3,11 +3,7 @@
 <!--- FireStorm (FireStorm#1000) for writing the majority of the instructions--->
 <!--- Anyone is free to use any part of this guide for their own usage with the stipulation all contributors above must be credited --->
 
-<!--- Lilith Logo Header --->
-<p align="center">
-    <img src="https://github.com/GhqstMC/LilithReleases/blob/main/assets/title.png" style="width: 45%">
-</p>
-
+<!--- Title --->
 <h1 align="center">
 
   [Lilith](https://github.com/GhqstMC/LilithReleases) Setup for Windows
