@@ -6,11 +6,11 @@
 <!--- Title --->
 <h1 align="center">
 
-  [Lilith](https://github.com/GhqstMC/LilithReleases) Setup for Windows
-  
+  **[Lilith](https://github.com/GhqstMC/LilithReleases) Setup for Windows**
+
 </h1>
 
----
+<br/>
 
 ## Install Lilith in the proper location
 
