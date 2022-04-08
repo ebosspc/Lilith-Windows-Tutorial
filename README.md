@@ -1,6 +1,7 @@
 <!--- Conttributors: --->
 <!--- Salmon (https://github.com/Scherso) for a formatting template --->
 <!--- FireStorm (FireStorm#1000) for writing the majority of the instructions--->
+<!--- Lucy (Lucyyy#9979) for fixing formatting and grammar--->
 <!--- Anyone is free to use any part of this guide for their own usage with the stipulation all contributors above must be credited --->
 
 <!--- Title --->
@@ -12,7 +13,7 @@
 
 <h4 align="center">
 
-Written by FireStorm and Salmon
+Written by FireStorm, Salmon, and Lucy
 
 </h4>
 
@@ -261,7 +262,7 @@ Written by FireStorm and Salmon
   <summary>
     Lilith Is Logging In to the Wrong Account</summary>
   
-  #### Wrong Account Authentication 
+  #### Wrong Account Authentication Fix
   - When you were authenticating either a main or an alt with Microsoft you accidentally signed in with a Microsoft account that was not associated with the ign you were trying to log in with.
   1. Close Lilith and Minecraft
   2. Navigate to your .Minecraft folder
