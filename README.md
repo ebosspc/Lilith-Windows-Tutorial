@@ -1,5 +1,7 @@
-<!--- Special Thanks to Sam (https://github.com/Scherso) for creating a beautiful formatting template for Lilith tutorials --->
-<!--- The majority of this text was written by FireStorm (FireStorm#1000) --->
+<!--- Conttributors: --->
+<!--- Salmon (https://github.com/Scherso) for a formatting template --->
+<!--- FireStorm (FireStorm#1000) for writing the majority of the instructions--->
+<!--- Anyone is free to use any part of this guide for their own usage with the stipulation all contributors above must be credited --->
 
 <!--- Lilith Logo Header --->
 <p align="center">
