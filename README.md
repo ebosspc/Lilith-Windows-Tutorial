@@ -10,6 +10,12 @@
 
 </h1>
 
+<h4 align="center">
+
+Written by FireStorm and Salmon
+
+</h4>
+
 ---
 
 ## Install Lilith in the proper location
