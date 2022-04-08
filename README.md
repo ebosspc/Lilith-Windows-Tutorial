@@ -257,6 +257,19 @@ Written by FireStorm and Salmon
 
 </details>
 
+<details>
+  <summary>
+    Lilith Is Logging In to the Wrong Account</summary>
+  
+  #### Wrong Account Authentication 
+  - When you were authenticating either a main or an alt with Microsoft you accidentally signed in with a Microsoft account that was not associated with the ign you were trying to log in with.
+  1. Close Lilith and Minecraft
+  2. Navigate to your .Minecraft folder
+  3. Find the JSON cache files that start with a bunch of random characters and delete them. There should be 3 of these per account you use.
+  4. Relaunch both Lilith and Minecraft and reauthenticate with Micorosft on each account. Remember to authenticate each ign with the **proper** Microsoft account associated with it. You may have to click `sign in with a different Microsoft account` to do so.
+
+</details>
+
 [LilithDownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3.exe
 [LunarClientQT]: https://github.com/Nilsen84/lunar-client-qt
 [JavaByteCode]: https://en.wikipedia.org/wiki/Java_bytecode
