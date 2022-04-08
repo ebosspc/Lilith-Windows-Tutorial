@@ -10,7 +10,7 @@
 
 </h1>
 
-<br/>
+---
 
 ## Install Lilith in the proper location
 
