@@ -11,18 +11,18 @@
 
 </h1>
 
+<!--- Authors --->
 <h4 align="center">
 
-Written by FireStorm, Salmon, and Lucy
+  Written by FireStorm, Salmon, and Lucy
 
 </h4>
 
 ---
 
 ## Install Lilith in the proper location
-
-- You can download Lilith for windows [Here][lilithdownload] if you haven't already. You can idenitfy it via the green icon next to its name.
-- Go to your desktop and right click on an empty space and create a new folder called Lilith
+- You can download Lilith for windows [Here][LilithDownload] if you haven't already. You can idenitfy it via the green icon next to its name.
+- Go to your desktop and right click on an empty space and create a new folder called Lilith.
 - Drag and drop the executable file you just downloaded into that folder you created. 
 - Note: Lilith WILL NOT work if it isn't in its own dedicated folder. Do not skip this step. Additionally, if you accidentally downloaded the Lilith executable more than once it may have something like a (1) at the end of the name that windows automatically gave it. If this is the case, please right click on the executable in your folder, select rename, and then manually remove the unwanted (1) from the end of its name.
 
@@ -43,6 +43,7 @@ Written by FireStorm, Salmon, and Lucy
 - Inside of your Lilith folder there should be three files: the executable which will be used to run Lilith, a Lilith.log file which is helpful for debugging/troubleshooting, and a toml file. Find the toml file and open it with notepad by right clicking it, selecting "Open with", and choosing Notepad from the list of programs. This should open the Lilith toml file with notepad.
 - At the top of your toml file you will find a list of bypasses Lilith has. Although Lilith is not detectable by Hypixel and no one has ever gotten banned for using it, all modifications which could be considered a cheat are turned off by default.
 
+<!--- Lunar Bypasses --->
 <details>
   <summary>
     Bypasses for Lunar</summary>
@@ -54,6 +55,7 @@ Written by FireStorm, Salmon, and Lucy
   
 </details>
 
+<!--- Forge Bypasses --->
 <details>
   <summary>
     Bypasses for Forge</summary>
@@ -63,6 +65,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Badlion Bypasses --->
 <details>
   <summary>
     Bypasses for Badlion</summary>
@@ -72,6 +75,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Customizing Queuestats --->
 <details>
   <summary>
     Queuestats Customizations</summary>
@@ -88,6 +92,7 @@ Written by FireStorm, Salmon, and Lucy
 - Scroll down your toml file until you see a line titled `[server.authentication]`. This is where you will input your credentials.
 - Note: If you are concerned about your account security, know that any account details you enter are stored locally on your pc and can't be viewed by the Lilith developers even if they wanted to. The only data we collect and store is your unique Hardware ID and discord tag, which is used for the licensing system. For more information, see our [Privacy Policy][LilithDocsFAQ].
 
+<!--- Microsoft Account Formatting --->
 <details>
   <summary>
        For Microsoft Accounts</summary>
@@ -101,6 +106,7 @@ Written by FireStorm, Salmon, and Lucy
   
 </details>
 
+<!--- Mojang Account Formatting --->
 <details>
   <summary>
        For Mojang Accounts</summary>
@@ -143,6 +149,7 @@ Written by FireStorm, Salmon, and Lucy
 
 ### Free
 
+<!--- Hypixel Mods Enable --->
 <details>
   <summary>
     Enable Hypixel Mods</summary>
@@ -161,12 +168,13 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Adding Alts --->
 <details>
   <summary>
     Add Alts</summary>
   
   #### Adding Alts to Lilith
-  **Note: Lilith WILL NOT support mojang accounts in 1.0**
+  **Note: Lilith WILL NOT support Mojang accounts in 1.0**
   1. Ensure Lilith and Lunar are closed.
   2. Navigate to the TOML file in your Lilith folder where you previously entered the details of your main minecraft account. Scroll down to the `[server.authentication]` portion of your TOML file. You should see the place where you entered you main's details. You are going to enter your alt's details following the exeact same formatting you used for your main.
   3. Copy the entire line with your main's details to your clipboard by pressing `ctrl` + `c`
@@ -182,6 +190,7 @@ Written by FireStorm, Salmon, and Lucy
 
 ### Requires Premium
 
+<!--- Aquiring Premium --->
 <details>
   <summary>
     How to Get Premium</summary>
@@ -191,6 +200,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- One-line Stats --->
 <details>
   <summary>
     Custom Queuestats</summary>
@@ -205,6 +215,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Autododge --->
 <details>
   <summary>
     Autododge</summary>
@@ -219,6 +230,7 @@ Written by FireStorm, Salmon, and Lucy
 ## Troubleshooting
 - If none of the solutions below work for you, please create a ticket in the [Lilith Discord Server][LilithDiscord].
 
+<!--- Lilith Not Running --->
 <details>
   <summary>
     Java.net connection excpetion In Game</summary>
@@ -228,6 +240,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Socket Closed --->
 <details>
   <summary>
     End, SocketClosed</summary>
@@ -238,6 +251,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- TOML Syntax Error --->
 <details>
   <summary>
     Bad Atom Value at line ___</summary>
@@ -248,6 +262,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- TOML Syntax Error --->
 <details>
   <summary>
     Unexpected token in JSON at position ___</summary>
@@ -258,6 +273,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Wrong Account Authentication Fix --->
 <details>
   <summary>
     Lilith Is Logging In to the Wrong Account</summary>
@@ -271,6 +287,7 @@ Written by FireStorm, Salmon, and Lucy
 
 </details>
 
+<!--- Links --->
 [LilithDownload]: https://github.com/GhqstMC/LilithReleases/releases/download/0.6.0-alpha.3/lilith-win-0-6-0-alpha-3.exe
 [LunarClientQT]: https://github.com/Nilsen84/lunar-client-qt
 [JavaByteCode]: https://en.wikipedia.org/wiki/Java_bytecode
