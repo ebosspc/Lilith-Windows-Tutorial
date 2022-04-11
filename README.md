@@ -281,7 +281,7 @@
   #### Wrong Account Authentication Fix
   - When you were authenticating either a main or an alt with Microsoft you accidentally signed in with a Microsoft account that was not associated with the ign you were trying to log in with.
   1. Close Lilith and Minecraft
-  2. Navigate to your .Minecraft folder
+  2. Navigate to your `.Minecraft` folder by typing `%Appdata%` into the searchbar at the bottom of your screen and then finding `.Minecraft`.
   3. Find the JSON cache files that start with a bunch of random characters and delete them. There should be 3 of these per account you use.
   4. Relaunch both Lilith and Minecraft and reauthenticate with Micorosft on each account. Remember to authenticate each ign with the **proper** Microsoft account associated with it. You may have to click `sign in with a different Microsoft account` to do so.
 
